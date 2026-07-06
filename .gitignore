@@ -1,0 +1,22 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+ai_chatbot/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
